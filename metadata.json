@@ -1,0 +1,6 @@
+{
+  "name": "Apex Athletic",
+  "description": "High-performance fitness, workout calendar, routine tracker, and body transformation photo journal with accessibility options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
